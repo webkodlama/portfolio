@@ -1,0 +1,28 @@
+
+/* .dark-container{
+    position: fixed;
+bottom: 0.7rem;
+left: 7rem;
+width: 3rem;
+height: 3rem;
+border-radius: 50%;
+display: flex;
+align-items: center;
+justify-content: center;
+background: #222831;
+}
+.dark{
+background: #131313 !important;
+color: #5b5d5f !important;
+}
+.bi-brilliance{
+    font-size: 1.5rem;
+    color: white;
+    z-index: 1000;
+} */
+
+.dark-mode{
+    --background:#1b1b1b;
+    --color_one:rgb(255,255,255);
+    transition: all .3s ease-in-out; body'de
+}
