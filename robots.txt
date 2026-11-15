@@ -1,0 +1,3 @@
+﻿User-agent: *
+Allow: /
+Sitemap: https://webkodlama.github.io/Portfolio-asil/sitemap.xml
